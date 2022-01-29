@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="jtdb@localhost" uuid="d7233c91-ff0f-4818-bf65-3748ec861a16">
+      <driver-ref>mysql_aurora</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql:aurora://localhost:3306/jtdb</jdbc-url>
+    </data-source>
+  </component>
+</project>
